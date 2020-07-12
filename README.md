@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my website 😄: https://taigi100.com
+Check out my website 😄: www.taigi100.com
 <!--
 **taigi100/taigi100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
